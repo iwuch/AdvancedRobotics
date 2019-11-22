@@ -1,0 +1,10 @@
+P*P = (I-nnT)*(I-nnT)
+    = I - 2nnT + nnTnnT
+    = I - nnT
+    = P
+
+P*n = (I-nnT)*n
+    = n-nnTn
+    = 0
+
+proven
